@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working on a VR mobile app
+
 🌱 I’m currently learning game development
+
 👯 I’m looking to collaborate on G3D
+
 💬 Ask me about game engines
 
 <!--
