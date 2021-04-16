@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a VR mobile app
+🔭 I’m currently working on an RPG mobile game
 
 🌱 I’m currently learning game development
 
