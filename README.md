@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning game development
 
-👯 I’m looking to collaborate on G3D
+👯 I’m looking to collaborate on random-wallpaper and Warlords
 
 💬 Ask me about game engines
 
