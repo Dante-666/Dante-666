@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on an RPG mobile game
-
-🌱 I’m currently learning game development
-
-👯 I’m looking to collaborate on random-wallpaper and Warlords
-
 💬 Ask me about game engines
 
 📫 How to reach me: View my portfolio and contact https://dante-666.github.io/
